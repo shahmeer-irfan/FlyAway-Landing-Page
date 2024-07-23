@@ -1,8 +1,25 @@
-# React + Vite
+<body>
+    <h1>FlyAway Company - Travel Agency Landing Page</h1>
+    <p>Welcome to the FlyAway Company repository! This project is a fully responsive travel agency landing page featuring a clean user interface, a contact form, and smooth animations.</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    <h2>Features</h2>
+    <ul>
+        <li>Clean and modern UI design</li>
+        <li>Fully responsive layout</li>
+        <li>Contact form for inquiries</li>
+        <li>Smooth animations using GSAP</li>
+    </ul>
 
-Currently, two official plugins are available:
+    <h2>Technologies Used</h2>
+    <ul>
+        <li><strong>React.js:</strong> JavaScript library for building user interfaces</li>
+        <li><strong>Tailwind CSS:</strong> Utility-first CSS framework for styling</li>
+        <li><strong>GSAP:</strong> Animation library for creating smooth animations</li>
+    </ul>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    <h2>Contributing</h2>
+    <p>Contributions are welcome! Please fork the repository and create a pull request with your changes.</p>
+
+    <h2>Contact</h2>
+    <p>If you have any questions or feedback, feel free to reach out to me at <a href="shameerirfan124@gmail.com">shameerirfan124@gmail.com</a>.</p>
+</body>
