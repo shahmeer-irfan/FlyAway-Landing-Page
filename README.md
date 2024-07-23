@@ -1,6 +1,6 @@
 <body>
-    <h1>FlyAway Company - Travel Agency Landing Page</h1>
-    <p>Welcome to the FlyAway Company repository! This project is a fully responsive travel agency landing page featuring a clean user interface, a contact form, and smooth animations.</p>
+    <h1>FlyAway-Travel Agency Landing Page</h1>
+    <p>A Travel agency landing page built with React.js, TailwindCSS and GSAP! This project is a fully responsive travel agency landing page featuring a clean user interface, a contact form, and smooth animations.</p>
     <h2>Features</h2>
     <ul>
         <li>Clean and modern UI design</li>
