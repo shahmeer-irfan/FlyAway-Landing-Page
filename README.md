@@ -21,5 +21,5 @@
     <p>Contributions are welcome! Please fork the repository and create a pull request with your changes.</p>
 
     <h2>Contact</h2>
-    <p>If you have any questions or feedback, feel free to reach out to me at <a href="shameerirfan124@gmail.com">shameerirfan124@gmail.com</a>.</p>
+    <p>If you have any questions or feedback, feel free to reach out to me at <a href="mailto:shameerirfan124@gmail.com">shameerirfan124@gmail.com</a>.</p>
 </body>
